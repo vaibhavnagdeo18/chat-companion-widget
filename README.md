@@ -205,4 +205,4 @@ export const FAQ_RESPONSES: Record<string, string> = {
 
 MIT License — feel free to use in your own projects!
 
---- i wanna make this readme look professional
+--- 
